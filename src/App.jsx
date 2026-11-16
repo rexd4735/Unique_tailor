@@ -12,7 +12,7 @@ import Contact from "./webpage/Contact";
 import Login from "./admin page/Login";
 import Dashboard from "./admin page/Dashboard";
 import Customers from "./admin page/Customers";
-import Measurements from "./admin page/Measurements";
+import Measurements from "./admin page/measurements";
 import Orders from "./admin page/Orders";
 import Billing from "./admin page/Billing";
 import Report from "./admin page/Report";
