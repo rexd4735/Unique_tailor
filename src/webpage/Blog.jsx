@@ -18,10 +18,12 @@ function Blog() {
         <div className="grid grid-cols-1 gap-8 mt-8 md:mt-16 md:grid-cols-2 xl:grid-cols-3">
             <div>
                 <div className="relative">
-                    <img className="object-center object-fill items-center w-full h-70 rounded-lg lg:h-80" src="/public/img/blog1.jpg" alt=""></img>
+                    <img className="object-center object-fill items-center w-full h-70 rounded-lg lg:h-80" 
+                    src="/img/blog1.jpg" alt=""></img>
 
                     <div className="absolute bottom-0 flex p-3 bg-white dark:bg-gray-900 ">
-                        <img className="object-cover object-center w-10 h-10 rounded-full" src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt=""></img>
+                        <img className="object-cover object-center w-10 h-10 rounded-full" 
+                        src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt=""></img>
 
                         <div className="mx-4">
                             <h1 className="text-sm text-gray-700 dark:text-gray-200">Fahim</h1>
@@ -45,10 +47,12 @@ function Blog() {
 
             <div>
                 <div className="relative">
-                    <img className="object-center object-fill items-center w-full h-70 rounded-lg lg:h-80" src="/public/img/blog2.jpg" alt=""></img>
+                    <img className="object-center object-fill items-center w-full h-70 rounded-lg lg:h-80" 
+                    src="/img/blog2.jpg" alt=""></img>
 
                     <div className="absolute bottom-0 flex p-3 bg-white dark:bg-gray-900 ">
-                        <img className="object-cover object-center w-10 h-10 rounded-full"src="./public/img/ejas1.jpeg"alt=""></img>
+                        <img className="object-cover object-center w-10 h-10 rounded-full"
+                        src=".img/ejas1.jpeg"alt=""></img>
 
                         <div className="mx-4">
                             <h1 className="text-sm text-gray-700 dark:text-gray-200">Ejas</h1>
@@ -72,10 +76,12 @@ function Blog() {
 
             <div>
                 <div className="relative">
-                    <img className="object-center object-fill items-center w-full h-70 rounded-lg lg:h-80" src="/public/img/blog3.jpg" alt="" />
+                    <img className="object-center object-fill items-center w-full h-70 rounded-lg lg:h-80" 
+                    src="/img/blog3.jpg" alt="" />
 
                     <div className="absolute bottom-0 flex p-3 bg-white dark:bg-gray-900 ">
-                        <img className="object-cover  object-center w-10 h-10 rounded-full" src="./public/img/jul1.jpeg" alt="" />
+                        <img className="object-cover  object-center w-10 h-10 rounded-full"
+                         src="/img/jul1.jpeg" alt="" />
 
                         <div className="mx-4">
                             <h1 className="text-sm text-gray-700 dark:text-gray-200">Julkifili</h1>
