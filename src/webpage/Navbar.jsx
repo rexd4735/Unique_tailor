@@ -6,7 +6,11 @@ function Navbar() {
   return (
    <nav className="absolute top-0 left-0 flex justify-center items-center w-full h-23 bg-transparent z-50">
         <div className='absolute left-8 mt-5 max-sm:left-4'>
-          <img className="h-33 w-68  max-sm:w-16 max-sm:h-16" src="./public/img/logo3.png" alt="Logo" />
+         <img
+  className="h-33 w-68 max-sm:w-16 max-sm:h-16"
+  src="/img/logo3.png"
+  alt="Logo"
+/>
         </div>
    <div className=" hidden md:flex opacity-90 px-4 py-2 font-montserrat font-medium items-center space-x-20 text-white text-shadow-transparent dark:text-gray-900 text-lg max-sm:text-sm max-sm:space-x-2">
     <a href="#Heroslider" className=" border-b-2 border-transparent hover:text-gray-400 hover:border-white transition-all duration-300">Home</a>
