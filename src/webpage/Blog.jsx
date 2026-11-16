@@ -52,7 +52,7 @@ function Blog() {
 
                     <div className="absolute bottom-0 flex p-3 bg-white dark:bg-gray-900 ">
                         <img className="object-cover object-center w-10 h-10 rounded-full"
-                        src=".img/ejas1.jpeg"alt=""></img>
+                        src="/img/ejas1.jpeg"alt=""></img>
 
                         <div className="mx-4">
                             <h1 className="text-sm text-gray-700 dark:text-gray-200">Ejas</h1>

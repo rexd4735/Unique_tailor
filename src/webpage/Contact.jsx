@@ -13,7 +13,8 @@ function Footer() {
             <div className="w-full -mx-6 lg:w-2/5">
                 <div className="px-6">
                     <a href="#">
-                        <img className="w-50 h-25" src="./public/img/logo3.png" alt="Unique Tailor Logo"></img>
+                        <img className="w-50 h-25"
+                         src="/img/logo3.png" alt="Unique Tailor Logo"></img>
                     </a>
 
                     <p className="max-w-sm mt-2 text-gray-500 dark:text-gray-400">Dress with confidence and style at Unique Tailor. </p>
