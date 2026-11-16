@@ -69,13 +69,13 @@ function App() {
     element={<Navigate to="/admin/dashboard" replace />}
   />
       <Route path="/" element={<Home />} />
-      <Route path="/admin/login" element={<Login />} />
-      <Route path="/admin/dashboard" element={<Dashboard />} />
-      <Route path="/admin/customers" element={<Customers />} />
-      <Route path="/admin/measurements" element={<Measurements />} />
-      <Route path="/admin/orders" element={<Orders />} />
-      <Route path="/admin/billing" element={<Billing />} />
-      <Route path="/admin/Report" element={<Report />} />
+      <Route path="./admin/login" element={<Login />} />
+      <Route path="./admin/dashboard" element={<Dashboard />} />
+      <Route path="./admin/customers" element={<Customers />} />
+      <Route path="./admin/measurements" element={<Measurements />} />
+      <Route path="./admin/orders" element={<Orders />} />
+      <Route path="./admin/billing" element={<Billing />} />
+      <Route path="./admin/report" element={<Report />} />
     </Routes>
   );
 }
