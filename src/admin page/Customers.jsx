@@ -188,9 +188,10 @@ const handleSubmit = async (e) => {
       <div className="mb-8 flex flex-col justify-between gap-5 sm:flex-row sm:items-center">
         <div>
           
-          <h2 className="mt-2 text-3xl font-semibold text-[#e5edff]">
-            Customers
-          </h2>
+          <h2 className="mt-2 flex items-center gap-3 text-3xl font-semibold text-[#e5edff]">
+  <Users size={28} className="text-[#d6ad60]" />
+  Customers
+</h2>
           <p className="mt-2 text-sm text-gray-400">
             Manage your customers and their contact information.
           </p>
