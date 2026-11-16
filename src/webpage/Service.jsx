@@ -2,17 +2,17 @@ const services = [
   {
     title: 'Shirt Tailoring',
     desc: 'your attractive clothes are made with us. We provide the best shirt tailoring services to make you look your best.',
-    image: '/public/img/blog1.jpg',
+    image: '/img/blog1.jpg',
   },
   {
     title: 'Blouse Tailoring',
     desc: 'Customized blouses tailored to your exact dreams. Experience the perfect fit and style with our expert tailoring services.',
-    image: '/public/img/blog2.jpg', 
+    image: '/img/blog2.jpg', 
   },
   {
     title: 'Special Occasion Tailoring',
     desc: 'Tailored for your most memorable moments. Our special occasion tailoring services ensure you look stunning for weddings, parties, and all your cherished events.',
-    image: '/public/img/blog3.jpg',
+    image: '/img/blog3.jpg',
   },
 ];
 
